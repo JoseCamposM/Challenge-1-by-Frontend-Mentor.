@@ -64,6 +64,7 @@ font-family: 'Montserrat', sans-serif;
     width: 50%;
     color: hsl(228, 12%, 48%);
     text-decoration:line-through;
+     padding-left: 10%;
 }
 
 .link-add{
